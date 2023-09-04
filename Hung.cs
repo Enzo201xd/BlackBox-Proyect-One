@@ -104,7 +104,7 @@ namespace BlackBox_Proyect_One
                     }
                 }
             }
-        }// end GuessingWord method
+        }// end GuessingWord 
 
         //metodo para elegir alguna palabra de la lista
         static string ChooseWord(List<string> listaDePalabras)
